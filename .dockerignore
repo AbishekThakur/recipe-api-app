@@ -1,0 +1,15 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.docker
+
+# Python
+API_RECIPE/__pycache__/
+API_RECIPE/*/__pycache__/
+API_RECIPE/*/*/__pycache__/
+API_RECIPE/*/*/*/__pycache__/
+.env/
+.venv/
+venv/
